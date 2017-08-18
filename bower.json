@@ -1,0 +1,29 @@
+{
+  "name": "app",
+  "description": "my app",
+  "main": "app.js",
+  "authors": [
+    "nameJiang"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "font-awesome": "fontawesome#^4.7.0",
+    "nprogress": "^0.2.0",
+    "bootstrap": "boostrap#^3.3.7",
+    "jquery": "^3.2.1",
+    "bootstrap-progressbar": "^0.9.0",
+    "cropper": "^2.3.4",
+    "flexslider": "^2.6.3",
+    "swipebox": "^1.4.4"
+  }
+}
